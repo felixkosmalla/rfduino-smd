@@ -1,4 +1,4 @@
-# rfduino-smd
+# Fritzing RFDuino part with SMD footprint
 This is a Fritzing part for the RFDuino with a SMD footprint
 
 
