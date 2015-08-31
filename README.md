@@ -5,6 +5,9 @@ This is a Fritzing part for the RFDuino with a SMD footprint
 # Attention
 This is a work in progress and not yet tested. I'll remove this warning when I got a successful factory run & soldering.
 
+* *Update 2015-08-31* The first factory run and the soldering went well. It seems to work but I didn't have time to test it fully. Programming the basic BLE Beacon examples works and is running.
+
+
 
 Credits
 -------
